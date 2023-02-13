@@ -1,0 +1,22 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "Simple Simon Says game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosperez85/Simon-Says.git"
+  },
+  "author": "Marcos Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosperez85/Simon-Says/issues"
+  },
+  "homepage": "https://github.com/marcosperez85/Simon-Says#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
